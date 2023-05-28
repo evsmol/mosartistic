@@ -1,5 +1,9 @@
 # mosartistic
+
+
 Mobile Android application for Moscow art schools
+
+
 ---
 
 `build` — the APK file of the application
