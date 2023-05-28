@@ -1,0 +1,9 @@
+package com.yandex.metrica.impl.p082ob;
+
+import com.yandex.metrica.impl.p082ob.C3398qf;
+
+/* renamed from: com.yandex.metrica.impl.ob.ze */
+interface C3732ze {
+    /* renamed from: a */
+    C3398qf.C3403d.C3404a.C3407c mo17823a(Integer num, String str, String str2, String str3);
+}
